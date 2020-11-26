@@ -10,6 +10,7 @@ Note: Should anyone, The Fun Pimps, etc wonder, Khelldon gave permission to use/
 
 **Discussions (and additional info, links, etc)**: [My modlets main page](https://community.7daystodie.com/topic/17197-doughs-modlets)
 
+
 #### Doughphunghus's fork - a18 General updates notes:
 Mods were originally written for a17, updated them for a18, mostly by:
 - Adding/migrating Localization.txt

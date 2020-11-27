@@ -1,7 +1,8 @@
 **For game**: [7 Days to Die](https://7daystodie.com)
 
-### Originally: 7d2dModlets
-Originally Forked from Khelldons original 7d2dModlets for alpha17 "7 Days to Die" modlets to work with later game versions.
+**Note**
+Originally Forked from Khelldons [original 7d2dModlets for alpha17](https://github.com/Khelldon/7d2dModlets), then moved into this repo during a19
+
 Note: Should anyone, The Fun Pimps, etc wonder, Khelldon gave permission to use/update these as needed, per https://7daystodie.com personal communications. I plan on trying to keep these up to date and close to original purpose/functionality as much as I reasonably can.
 
 **To install game mods**: [7 Days to Die modlet installation](https://gist.github.com/doughphunghus/a1907c5f63b5fe79bd823965328f25bf)
@@ -16,8 +17,6 @@ Mods were originally written for a17, updated them for a18, mostly by:
 - Adding/migrating Localization.txt
 - Adding/modifying Readme.md to indicate a18 support
 - Modifying ModInfo.xml to change version number to  differentiate it from originals.
-  - Bumped version to 2.0.0 when mod is no longer compatible with a17
-  - Added "-doughphunghus" to version number to indicate the modlet comes from this fork
 - Migrating existing icons
 - Adding display values for item statistics
 - Updating xpath when needed
@@ -45,5 +44,3 @@ Mods were originally written for a17, updated them for a18, mostly by:
 | Khelldon-GetFramed| BROKEN in a18.2 | HELP NEEDED: Not sure hot to handle non-existing block "woodWeakNoUpgradeMaster" everything is built on |
 | Khelldon-GetGreener| BROKEN in a18.2 | HELP NEEDED: Not sure hot to handle converting this |
 | zzz-Khelldon-GetBenched | UNKNOWN for a18.2 | NOT TESTED YET. HELP NEEDED: Seems this could be broken into 2 modlets. 1 for picking up workbench (or any workstation) and another for the "makes workbench required for many things" since I believe other modlets allready exist for picking up workstations?|
-
-# Last a17 release: See Original Khelldons modlets this repo is forked from
